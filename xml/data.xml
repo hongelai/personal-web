@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<home>
+	<metatitle>Hongzhi Li</metatitle>
+	<metadescription>description</metadescription>
+	<closebutton>X</closebutton>
+	<selfIntroduction>Hey! This is Hongzhi Li, or you can call me Mike. I'm currently a computer science student at USC. This website is my technical homepage. Hope you can know more about me from here!
+	In the Summer of 2012 I got my B.S at Xidian University in China. My major there is Software Engineering. Then I worked for Huawei Technologies in headquarter for 6 months as software engineer. In 2013 Summer I was admitted to USC Viterbi School of Engineering and began my master program here.<br/>
+	I have plenty of experience in building software and website. And I also dabble in some more advanced technologies such as Cloud Computing. To sharpen my algorithm skills, I tackle a couple of problems on LeetCode every day.
+	Generally I prefer coding in C/C++. But I also build Mobile Apps in Java. For WEB front-end language, I found JQuery is really amazing. In case of back-end, I enjoy using PHP.
+	I will graduate at Dec. 2014 and I hope I can get a satisfactory job by then:)
+	</selfIntroduction>
+	<selfie>img/selfie.jpg</selfie>
+	
+	<projects>
+		<project>
+			<projectNo>Project |01</projectNo>
+			<projectTitle>OWNZONES</projectTitle>
+			<projectUrl>https://www.ownzones.com/</projectUrl>
+			<projectInfo>OwnZones is a subscription-based personalized content platform that provide subscribers with personalized information, video and images.
+			Developed sign up, login, bundles, history tracking and publisher modules of UX3 version with BackboneJs, CodeIgniter, SCSS and Foundation.</projectInfo>
+			<media>
+				<image>
+					<thumb>img/ownzones/thumb/ownzones1.png</thumb>
+					<source>img/ownzones/ownzones1.png</source>
+				</image>
+				<image>
+					<thumb>img/ownzones/thumb/ownzones2.png</thumb>
+					<source>img/ownzones/ownzones2.png</source>
+				</image>
+				<image>
+					<thumb>img/ownzones/thumb/ownzones3.png</thumb>
+					<source>img/ownzones/ownzones3.png</source>
+				</image>
+				<image>
+					<thumb>img/ownzones/thumb/ownzones4.png</thumb>
+					<source>img/ownzones/ownzones4.png</source>
+				</image>
+				<image>
+					<thumb>img/ownzones/thumb/ownzones5.png</thumb>
+					<source>img/ownzones/ownzones5.png</source>
+				</image>
+				<image>
+					<thumb>img/ownzones/thumb/ownzones6.png</thumb>
+					<source>img/ownzones/ownzones6.png</source>
+				</image>
+			</media>
+		</project>
+		<project>
+			<projectNo>Project |02</projectNo>
+			<projectTitle>SLEEPY HOLLOW</projectTitle>
+			<projectUrl>http://www.ichabodsjournal.com/intl/</projectUrl>
+			<projectInfo>A responsive website with social media API integration to promote film Sleepy Hollow.
+			In charge of Creatures Mythologies module and the customized audio player around whole site.</projectInfo>
+			<media>
+				<image>
+					<thumb>img/sleepy hollow/thumb/1.png</thumb>
+					<source>img/sleepy hollow/1.png</source>
+				</image>
+				<image>
+					<thumb>img/sleepy hollow/thumb/2.png</thumb>
+					<source>img/sleepy hollow/2.png</source>
+				</image>
+				<image>
+					<thumb>img/sleepy hollow/thumb/3.png</thumb>
+					<source>img/sleepy hollow/3.png</source>
+				</image>
+				<image>
+					<thumb>img/sleepy hollow/thumb/4.png</thumb>
+					<source>img/sleepy hollow/4.png</source>
+				</image>
+			</media>
+		</project>
+		<project>
+			<projectNo>Project |03</projectNo>
+			<projectTitle>STOCK MARKET SEARCH</projectTitle>
+			<projectUrl>http://cs-server.usc.edu:35366/examples/servlets/StockMarketSearch.html</projectUrl>
+			<projectInfo>Designed and developed a stock market search website using Yahoo Finance &amp; Facebook Mashup. (Ajax, Java servlet, Javascript, HTML/CSS, XML/JSON)
+			Transplanted this website to Android platform with a combination of the Android SDK and the Facebook SDK.(Java &amp; Android)</projectInfo>
+			<media>
+				<image>
+					<thumb>img/stock/thumb/1.png</thumb>
+					<source>img/stock/1.png</source>
+				</image>
+				<image>
+					<thumb>img/stock/thumb/2.png</thumb>
+					<source>img/stock/2.png</source>
+				</image>
+				<image>
+					<thumb>img/stock/thumb/3.png</thumb>
+					<source>img/stock/3.png</source>
+				</image>
+			</media>
+		</project>
+		<project>
+			<projectNo>Project |04</projectNo>
+			<projectTitle>USC Mission Science Information System Enhancement</projectTitle>
+			<projectUrl>http://viterbi.usc.edu/students/undergrad/ced/precollege/mission/</projectUrl>
+			<projectInfo>Designed and implemented Project Print Management component that provides flexible printing methods for faculties to tailor and print projects.(VBA, SQL, MS Access)
+			Developed project merge function that allows the system administrator to merge similar projects</projectInfo>
+			<media>
+				<image>
+					<thumb>img/mission science/thumb/1.png</thumb>
+					<source>img/mission science/1.png</source>
+				</image>
+				<image>
+					<thumb>img/mission science/thumb/2.png</thumb>
+					<source>img/mission science/2.png</source>
+				</image>
+				<image>
+					<thumb>img/mission science/thumb/3.png</thumb>
+					<source>img/mission science/3.png</source>
+				</image>
+				<image>
+					<thumb>img/mission science/thumb/4.png</thumb>
+					<source>img/mission science/4.png</source>
+				</image>
+			</media>
+		</project>
+	</projects>
+	<resume>
+		<professionalInfo>I worked as both front-end and back-end web developer in a startup company Oskoui+Oskoui, Inc. this Summer 2014. I devoted most of my time there in the development of a subscription-based personalized content platform OwnZones.com. For project OwnZones, I developed the login, sign up, history tracking, publishers, about and bundles modules for UX3 version and took charge of a lot of hotfixes. Also, I participated in the devlopment of some modules of upcoming film websites.
+		Before Oskoui, I worked in Huawei Technologies for half a year. I was a software developer there and developed the plugin packages for signaling processing system(R7).I started the weekly ‘Seek After Knowledge’ seminar for my colleagues to share what they were engaging in. Besides, I also organized the ‘Code Coverage’ project which increased the code coverage of our department from 28% to 60%.
+		</professionalInfo>
+		<experience>
+			<job>
+				<position>Web Developer</position>
+				<company>Oskoui+Oskoui,Inc.</company>
+				<time>Jun. 2014 - Aug. 2014 (3 months) | Los Angeles</time>
+				<description>Took charge of the development of mulitple modules of  subscription-based personalized content platform OwnZones.(both front-end and back-end)
+				Developed responsive websites with social media API integration to promote upcoming films.
+				</description>
+			</job>
+			<job>
+				<position>Software Developer</position>
+				<company>Huawei Technologies</company>
+				<time>Dec. 2012 - May 2013 (6 months) | Shenzhen, China</time>
+				<description>Developed plugin packages for signaling processing system(version R7) using C++ and XML (~4K lines), enabled it to apply USCDB which supports data storage for at most 300 million users in India.
+				Improved code coverage of signalling department from 28% to over 60%, collaborating with the QA team (5K+ test cases).
+				</description>
+			</job>
+		</experience>
+		<education>
+			<level>
+				<name>Univeristy of Southern California</name>
+				<degree>Master of Computer Science</degree>
+				<time>Aug. 2013 - Present | Los Angeles</time>
+			</level>
+			<level>
+				<name>Xidian University</name>
+				<degree>Bachelor of Software Engineering</degree>
+				<time>Aug. 2008 - Jun. 2013 | Xi'an, China</time>
+			</level>
+		</education>
+		<skill>
+			<imgUrl>img/exclamatoin.png</imgUrl>
+			<skillSet>
+				<name>UNIX/Linux</name>
+				<name>MySQL/SQL Server</name>
+				<name>Android</name>
+				<name>Foundation</name>
+				<name>Backbone.Js</name>
+				<name>CodeIgniter</name>
+				<name>SCSS</name>
+			</skillSet>
+		</skill>
+		<language>
+			<imgUrl>img/world.png</imgUrl>
+			<langSet>
+				<lang>C/C++</lang>
+				<lang>Java</lang>
+				<lang>SQL</lang>
+				<lang>PHP</lang>
+				<lang>JavaScript</lang>
+				<lang>JQuery</lang>
+				<lang>AJAX</lang>
+				<lang>HTML/CSS</lang>
+				<lang>XQuery</lang>
+			</langSet>
+		</language>
+		<download>
+			<imgUrl>img/download.png</imgUrl>
+			<formatSet>
+				<format>
+					<name>PDF</name>
+					<source>docs/Resume_of_Hongzhi_Li.pdf</source>
+				</format>
+				<format>
+					<name>DOC</name>
+					<source>docs/Resume_of_Hongzhi_Li.doc</source>
+				</format>
+			</formatSet>
+		</download>
+	</resume>
+	<contact>
+		<phone>323-594-4969</phone>
+		<email1>HongeLai@gmail.com</email1>
+		<email2>hongzhil@usc.edu</email2>
+	</contact>
+	<footer>
+		<phoneUrl>img/phone.png</phoneUrl>
+		<emailUrl>img/mail.png</emailUrl>
+		<socialUrl>img/plus.png</socialUrl>
+		<linkedin>img/linkedin.png</linkedin>
+		<linkedinUrl>https://www.linkedin.com/pub/hongzhi-mike-li/77/638/a33</linkedinUrl>
+		<copyright>img/copyright.png</copyright>
+	</footer>
+</home>
